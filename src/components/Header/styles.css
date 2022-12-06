@@ -1,0 +1,28 @@
+.header-wrapper {
+  background-color: #b7f349;
+  display: flex;
+}
+
+.header-wrapper > img {
+  height: 90px;
+  color: #f10d19;
+}
+
+.header-title {
+  color:#f10d19;
+  margin-top: 15px;
+}
+
+.navigation {
+  display: flex;
+  margin-left: auto;
+}
+
+.navigation > button {
+  background-color: #b7f349;
+  margin: 20px 80px 0 0;
+  font-size: 20px;
+  height: 30px;
+  width: 100px;
+  color: rgb(7, 6, 6);
+}
